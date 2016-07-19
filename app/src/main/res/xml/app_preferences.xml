@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Display Settings">
+
+        <CheckBoxPreference
+            android:title="Dark Theme"
+            android:summary="Switch scribble to nocturnal mode"
+            android:key="background_color"
+            android:defaultValue="false"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

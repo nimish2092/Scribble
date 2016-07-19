@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scribble</string>
+    <string name="action_add_note">Add Note</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="viewFragmentTitle">View Note</string>
+    <string name="editFragmentTitle">Edit Note</string>
+    <string name="createFragmentTitle">Create Note</string>
+    <string name="title_preferences">Scribble Settings</string>
+
+
+    <string name="edit_menu">Edit</string>
+    <string name="delete_menu">Delete</string>
+
+    <string name="save_note_button">Save Note</string>
+
+</resources>
